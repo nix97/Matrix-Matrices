@@ -1,2 +1,2 @@
 # Matrix-Matrices
-Solve multiplication, determinant, invers, system of linear equation, eigenpairs, SVD
+Solve multiplication, determinant, invers, system of linear equation(gauss jordan), eigenpairs, SVD
