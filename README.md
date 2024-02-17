@@ -1,9 +1,9 @@
 ## 1. Matrix Solver
-Solve multiplication, determinant, invers, system of linear equation(gauss jordan), eigenpairs, SVD.
+Solve multiplication, determinant, invers, system of linear equation(gauss jordan), eigenpairs, SVD.<br>
 Build in Visual Studio 2017 CE.
 
 ## 2. Geometry Transformation
-To operate basic transformation of geometry, such as translation, rotation & scalling(dilatation). This transformation using additional & multiplication of matrix.
+To operate basic transformation of geometry, such as translation, rotation & scalling(dilatation). This transformation using additional & multiplication of matrix.<br>
 Build in Lazarus(pascal) 1.6.4.
 
 ## 3. Eigenpairs
