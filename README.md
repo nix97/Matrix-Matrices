@@ -3,7 +3,7 @@ To solve matrix problems like multiplication, determinant, invers, system of lin
 Build in Visual Studio 2017 CE.
 
 ## 2. Geometry Transformation
-To operate basic transformation of geometry, such as translation, rotation & scalling(dilatation). This transformation using additional & multiplication of matrix.<br>
+To operate basic transformation of geometry, such as translation, rotation & scaling(dilatation). This transformation using additional & multiplication of matrix.<br>
 Build in Lazarus(pascal) 1.6.4.
 
 ## 3. Eigenpairs
