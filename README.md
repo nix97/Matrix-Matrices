@@ -1,5 +1,5 @@
 ## 1. Matrix Solver
-Solve multiplication, determinant, invers, system of linear equation(gauss jordan), eigenpairs, SVD.<br>
+To solve matrix problems like multiplication, determinant, invers, system of linear equation(gauss jordan), eigenpairs, SVD.<br>
 Build in Visual Studio 2017 CE.
 
 ## 2. Geometry Transformation
@@ -9,5 +9,5 @@ Build in Lazarus(pascal) 1.6.4.
 ## 3. Eigenpairs
 To find solution of eigenpairs problem(fullset eigenvalues & eigenvectors) using Jacobi iteration.
 The equation of this problem is AV = λV,
-where A is square matrix, Scalar λ & pair Vector V.
+where A is square matrix, Scalar λ & pair Vector V.<br>
 Build in Visual Studio 2017 CE.
