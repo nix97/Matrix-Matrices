@@ -1,5 +1,5 @@
 ## 1. Matrix Solver
-To solve matrix problems like multiplication, determinant, invers, system of linear equations(gauss jordan), eigenpairs, SVD.<br>
+To solve matrix problems like multiplication, determinant, invers, system of linear equations(gauss jordan), Eigenpairs, SVD(Singular Value Decomposition).<br>
 Build in Visual Studio 2017 CE.
 
 ## 2. Geometry Transformation
