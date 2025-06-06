@@ -1,12 +1,12 @@
-# Matrix
+# Matrix-Matrices
 
-![License](https://img.shields.io/github/license/nix97/matrix)
-![Issues](https://img.shields.io/github/issues/nix97/matrix)
-![Stars](https://img.shields.io/github/stars/nix97/matrix)
-![Lazarus](https://img.shields.io/badge/IDE-Lazarus-orange?logo=delphi)
-![Free Pascal](https://img.shields.io/badge/Language-Free%20Pascal-yellow)
+![License](https://img.shields.io/github/license/nix97/matrix-matrices)
+![Issues](https://img.shields.io/github/issues/nix97/matrix-matrices)
+![Stars](https://img.shields.io/github/stars/nix97/matrix-matrices)
+![Language](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white)
 ![SVD](https://img.shields.io/badge/Algorithm-SVD-purple)
 ![LU Decomposition](https://img.shields.io/badge/Algorithm-LU%20Decomposition-green)
+![Eigen Solver](https://img.shields.io/badge/Function-Eigenvalue%20Solver-teal)
 
 ## 1. Matrix Solver
 To solve matrix problems like multiplication, determinant, invers, system of linear equations(gauss jordan), Eigenpairs, SVD(Singular Value Decomposition).<br>
