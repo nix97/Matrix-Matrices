@@ -5,7 +5,7 @@ This app for solving Systems of Linear Equations
  
 -Sourcecode available in Lazarus
 
--build in Lazarus 3.2
+-build in Lazarus 1.8
 
 -Download folder : GaussJordan on https://github.com/nix97/Matrix-Matrices 
 
