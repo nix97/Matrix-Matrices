@@ -1,0 +1,26 @@
+Notes :
+
+This app for solving Systems of Linear Equations 
+(AX=B) using Gauss Jordan method.
+ 
+-Sourcecode available in Lazarus
+
+-build in Lazarus 3.2
+
+-Download folder : GaussJordan on https://github.com/nix97/Matrix-Matrices 
+
+-Feel free to use & modify.
+
+
+Tips:
+
+-To smalling the exe file size, can use strip *.exe (example: strip proGaussJordan.exe) at console.
+-When rebuild project, the *.exe size approx 55 MB, after "strip" become approx 6 MB.
+
+
+by Lukas Setiawan Mar 7, 2025 (e-mail:lukassetiawan@yahoo.com)
+
+
+
+Happy coding coy....
+
