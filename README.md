@@ -1,5 +1,3 @@
-# Matrix-Matrices
-
 ![License](https://img.shields.io/github/license/nix97/matrix-matrices)
 ![Issues](https://img.shields.io/github/issues/nix97/matrix-matrices)
 ![Stars](https://img.shields.io/github/stars/nix97/matrix-matrices)
@@ -7,6 +5,8 @@
 ![SVD](https://img.shields.io/badge/Algorithm-SVD-purple)
 ![LU Decomposition](https://img.shields.io/badge/Algorithm-LU%20Decomposition-green)
 ![Eigen Solver](https://img.shields.io/badge/Function-Eigenvalue%20Solver-teal)
+
+# Matrix-Matrices
 
 ## 1. Matrix Solver
 To solve matrix problems like multiplication, determinant, invers, system of linear equations(gauss jordan), Eigenpairs, SVD(Singular Value Decomposition).<br>
