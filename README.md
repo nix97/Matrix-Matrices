@@ -22,4 +22,4 @@ We have 3 linear equations
 2.  X1+2X2-2X3 = -9
 3.  3X1+2X2-3X3 = 10<br>
 As the result we got x1=1; x2=-2; x3=3; <br>
-Build in Lazarus 2.3(object pascal) 
+Build in Lazarus 1.8(object pascal) 
