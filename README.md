@@ -2,6 +2,7 @@
 ![Issues](https://img.shields.io/github/issues/nix97/matrix-matrices)
 ![Stars](https://img.shields.io/github/stars/nix97/matrix-matrices)
 ![Language](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white)
+![Lazarus](https://img.shields.io/badge/Built%20with-Lazarus-blue?logo=pascal)
 ![SVD](https://img.shields.io/badge/Algorithm-SVD-purple)
 ![LU Decomposition](https://img.shields.io/badge/Algorithm-LU%20Decomposition-green)
 ![Eigen Solver](https://img.shields.io/badge/Function-Eigenvalue%20Solver-teal)
