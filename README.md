@@ -6,6 +6,7 @@
 ![SVD](https://img.shields.io/badge/Algorithm-SVD-purple)
 ![LU Decomposition](https://img.shields.io/badge/Algorithm-LU%20Decomposition-green)
 ![Eigen Solver](https://img.shields.io/badge/Function-Eigenvalue%20Solver-teal)
+![GitHub release downloads](https://img.shields.io/github/downloads/nix97/matrix-matrices/latest/total)
 
 # Matrix-Matrices
 
